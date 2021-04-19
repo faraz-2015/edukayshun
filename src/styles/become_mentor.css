@@ -1,0 +1,87 @@
+/* #become_mentor {
+	background-image: url(../BecomeMentor/ID0af64cd75114b450f69d68ea6a9f.png);
+} */
+
+#Connecting_Mentors_to_Students {
+    margin-top: 30%;
+	font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 28px/40px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 28px/40px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+#Great_mentors_in_every_stage_o{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 400 16px/19px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+#Connecting_Mentors_to_Student{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/40px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 32px/40px Raleway;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#_We_at_Edukayshun_believe_in_g {
+    margin: 5%;
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 600 16px/19px Raleway;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+.bec_men_perc {
+
+	font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 33px/39px Work Sans;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 33px/39px Work Sans;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+.bec_men_perc_text {font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 14px/16px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 14px/16px Raleway;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#Become_A_Mentor_ghw {
+    font: var(--unnamed-font-style-normal) normal 600 21px/25px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal 600 21px/25px Raleway;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#By_providing_your_contact_deta_gib{
+    margin-left: 15%;
+    width: 70%;
+    font: var(--unnamed-font-style-normal) normal  14px/16px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal  14px/16px Raleway;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
