@@ -1,0 +1,264 @@
+/* #course_page{
+   
+background-image: url(../CoursePage/gettyimages-945337412-612x612_f.png);
+background-repeat: no-repeat;
+
+} */
+
+#course_bg_3{
+    background: transparent linear-gradient(91deg, #28303B 0%, #3E335800 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    /* height: 500px; */
+}
+
+#course_bg_2 ,#course_bg_1{
+    background-color: #28303B;
+    /* height: 500px; */
+
+}
+
+#Workshop_on__AWS_Solutions__Ar{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 28px/49px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal bold 28px/49px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+margin-top: 10%;
+}
+
+#Learn_From_Industry_Experts_ff{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 400 16px/19px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.course_nav_txt{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 600 16px/19px 'Raleway',sans-serif;
+letter-spacing: 0px;
+color: #3E3358;
+opacity: 1;
+margin: auto;
+padding: 20px;
+}
+
+#Description_fk{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 32px/37px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#In_this_AWS_Workshop_you_will_{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 600 16px/19px 'Raleway',sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+.points_course{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 14px/16px var(--unnamed-font-family-raleway);
+                letter-spacing: var(--unnamed-character-spacing-0);
+                text-align: center;
+                font: normal normal  14px/16px 'Raleway',sans-serif;
+                letter-spacing: 0px;
+                color: #707070;
+                opacity: 1;
+}
+
+#Live_Training{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 32px/37px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1
+}
+
+#Prerequisites{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 32px/37px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#_Anyone_who_has_a_desire_to_le{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 14px/16px "Work Sans",sans-serif;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 14px/16px "Work Sans",sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#Benefits{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 32px/37px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #2E3847;
+opacity: 1;
+}
+
+#_Learn_cloud_computing__its_br{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 12px/14px Work Sans;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 12px/14px Work Sans;
+letter-spacing: 0px;
+color: #28303B;
+opacity: 1;
+}
+
+#Job_Titles__Designations ,#Annual_Salary ,#Hiring_Companies{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 14px/16px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 14px/16px 'Raleway',sans-serif;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+
+#Cloud_Solution_Architect{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 23px/27px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal normal 23px/27px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #28303B;
+opacity: 1;
+}
+
+#Cloud_Administrator{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 27px/31px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal bold 27px/31px Raleway;
+letter-spacing: 0px;
+color: #28303B;
+opacity: 1;
+}
+#Cloud_Developer{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: center;
+font: normal normal normal 32px/37px "Raleway",sans-serif;
+letter-spacing: 0px;
+color: #28303B;
+opacity: 1;
+
+}
+.halves-circle{
+    background: #fff;
+    height: 150px;
+    width: 150px;
+    border: 30px solid;
+    border-radius: 50%;
+    border-color: #118AEF  #71AEE1 #B6D4EC #E2ECF3 ;
+    /* transform: rotate(45deg);
+     */
+  }
+
+ #Course_Content{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 32px/37px "Raleway",sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1;
+ } 
+
+ #We_enhance_and_enrich_our_teac{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 600 16px/19px 'Raleway',sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1;
+ }
+
+ .course_modules{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 14px/16px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal bold 14px/16px 'Raleway',sans-serif;
+    letter-spacing: 0px;
+    color: #118AEF;
+    opacity: 1;
+    margin-top: 4%;
+
+ }
+
+ #FAQs{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 32px/37px "Raleway",sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1
+ }
+
+ #Frequently_asked_questionFAQs_{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 600 16px/19px 'Raleway',sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1;
+ }
+
+ .faq_titles{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 21px/25px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 21px/25px Raleway;
+    letter-spacing: 0px;
+    color: #3E3358;
+    opacity: 1;
+ }
+
+ #Other_related_workshops{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-32)/37px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 32px/37px "Raleway",sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1;
+
+ }
+
+ #Learn_from_leading_industry_ex{
+    font: var(--unnamed-font-style-normal) normal 600 16px/19px var(--unnamed-font-family-raleway);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal 600 16px/19px 'Raleway',sans-serif;
+    letter-spacing: 0px;
+    color: #2E3847;
+    opacity: 1;
+    margin-top: 10px;
+ }
