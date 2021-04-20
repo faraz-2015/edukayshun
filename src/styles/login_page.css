@@ -4,57 +4,96 @@
 
 } */
 
-#Our_live_interactive_workshops{
-  font: italic normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-32)/50px var(--unnamed-font-family-raleway);
+#Our_live_interactive_workshops {
+  /* font: italic normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-32)/50px var(--unnamed-font-family-raleway);
 letter-spacing: var(--unnamed-character-spacing-0);
 text-align: center;
-font: italic normal bold 32px/50px Raleway;
+font: italic normal bold 32px/50px 'Raleway',sans-serif;
 letter-spacing: 0px;
 color: #FFFFFF;
-opacity: 1;
+opacity: 1; */
 
-padding: 10%;
-margin-top: 15%;
-margin-bottom: 40%;
+  padding: 10%;
+  margin-top: 15%;
+  margin-bottom: 40%;
 }
 
-#Welcome_Back{
-  font: italic normal var(--unnamed-font-weight-bold) 42px/49px var(--unnamed-font-family-raleway);
-letter-spacing: var(--unnamed-character-spacing-0);
-text-align: left;
-font: italic normal bold 42px/49px Raleway;
-letter-spacing: 0px;
-color: #F05A27;
-opacity: 1;
+#Welcome_Back {
+  font: italic normal var(--unnamed-font-weight-bold) 42px/49px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: italic normal bold 42px/49px Raleway;
+  letter-spacing: 0px;
+  color: #f05a27;
+  opacity: 1;
 }
 
-#Welcome_Back_to_Edukayshun_Login{
-  font: var(--unnamed-font-style-normal) normal medium 14px/16px var(--unnamed-font-family-raleway);
-letter-spacing: var(--unnamed-character-spacing-0);
-text-align: left;
-font: normal normal 400 14px/16px Raleway;
-letter-spacing: 0px;
-color: #707070;
-opacity: 1;
+#Welcome_Back_to_Edukayshun_Login {
+  font: var(--unnamed-font-style-normal) normal medium 14px/16px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 400 14px/16px Raleway;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
 }
 
-#Forgot_Password_Click_here{
-  font: var(--unnamed-font-style-normal) normal medium 14px/16px var(--unnamed-font-family-raleway);
-letter-spacing: var(--unnamed-character-spacing-0);
-text-align: center;
-font: normal normal 400 14px/16px Raleway;
-letter-spacing: 0px;
-color: #707070;
-opacity: 1;
-margin-top: 10px;
+#Forgot_Password_Click_here {
+  font: var(--unnamed-font-style-normal) normal medium 14px/16px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal 400 14px/16px Raleway;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+  margin-top: 10px;
 }
 
-#Not_a_Member_Yet_Register_Now{
-  font: var(--unnamed-font-style-normal) normal medium 14px/16px var(--unnamed-font-family-raleway);
-letter-spacing: var(--unnamed-character-spacing-0);
-text-align: center;
-font: normal normal 400 14px/16px Raleway;
-letter-spacing: 0px;
-color: #28303B;
-opacity: 1;
+#Not_a_Member_Yet_Register_Now {
+  font: var(--unnamed-font-style-normal) normal medium 14px/16px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal 400 14px/16px Raleway;
+  letter-spacing: 0px;
+  color: #28303b;
+  opacity: 1;
+}
+
+.How_Can_We_Help {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-32) / 37px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 32px/37px Raleway;
+  letter-spacing: 0px;
+  color: #2e3847;
+  opacity: 1;
+}
+.ContactText {
+  font: var(--unnamed-font-style-normal) normal 600 12px/14px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal 600 12px/14px "Raleway", sans-serif;
+  letter-spacing: 0px;
+  color: #2e3847;
+  opacity: 1;
+  /* line-height: 0; */
+}
+
+.Write_to_us {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-32) / 37px
+    var(--unnamed-font-family-raleway);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 32px/37px "Raleway", sans-serif;
+  letter-spacing: 0px;
+  color: #2e3847;
+  opacity: 1;
 }

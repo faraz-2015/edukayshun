@@ -336,20 +336,20 @@ const About = () => {
             </a>
           </div>
           <div class="side_panel_background">
-            <a class="side_panel_text" href="./Privacy_Policy.html">
+            <a class="side_panel_text" href="/privatePolicy">
               Privacy Policy
             </a>
           </div>
           <div class="side_panel_background">
-            <a class="side_panel_text" href="./Refund_Policy.html">
+            <a class="side_panel_text" href="/refund">
               Refund Policy
             </a>
           </div>
           <div class="side_panel_background">
-            <a class="side_panel_text">Contact Us</a>
+            <a class="side_panel_text" href='/contact'>Contact Us</a>
           </div>
           <div class="side_panel_active_background">
-            <a class="side_panel_active" href="About_Us.html">
+            <a class="side_panel_active" href="/about">
               About Us
             </a>
           </div>

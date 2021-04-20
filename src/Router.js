@@ -12,6 +12,9 @@ const Terms = lazy(() => import("./screens/Terms&Condition"));
 const Blogs = lazy(() => import("./screens/home_page"));
 
 const About = lazy(() => import("./screens/About us"));
+const Register = lazy(() => import("./screens/Register"));
+const Contact = lazy(() => import("./screens/ContactUs"));
+
 
 const Routing = () => {
   return (
@@ -27,6 +30,9 @@ const Routing = () => {
           <Route path="/refund" component={Refund} />
           <Route path="/terms" component={Terms} />
           <Route path="/blogs" component={Blogs} />
+          <Route path="/register" component={Register} />
+          <Route path="/contact" component={Contact} />
+
 
           <Route path="/about" component={About} />
 
