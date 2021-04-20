@@ -39,7 +39,7 @@ const Login = () => {
                 <span>Welcome Back!</span>
               </div>
               <br />
-              <div id="Welcome_Back_to_Edukayshun_Login">
+              <div id="Welcome_Back_to_Edukayshun_Login" style={{display:'flex',justifyContent:"center"}}>
                 <span>
                   Welcome Back to Edukayshun, Login to Access Your Account
                 </span>
@@ -112,7 +112,7 @@ const Login = () => {
                 <span>Not a Member Yet? Register Now</span>
               </div>
               <div style={{ textAlign: "center", marginTop: "10px" }}>
-                <button
+                <a
                   type="button"
                   class="btn"
                   style={{
@@ -121,6 +121,7 @@ const Login = () => {
                     width: "50%",
                     borderRadius: "10px",
                   }}
+                  href = '/register'
                 >
                   <span
                     style={{
@@ -137,7 +138,7 @@ const Login = () => {
                   >
                     Register Now
                   </span>
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -145,7 +146,7 @@ const Login = () => {
 
         <div class="col-sm-2"></div>
       </div>
-     <Footer/>
+     {/* <Footer/> */}
     </div>
   );
 };

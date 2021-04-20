@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 
@@ -294,7 +294,7 @@ const Mentor = () => {
         </div>
       </div>
       <br />
-    <Footer/>
+      <Footer />
     </div>
   );
 };

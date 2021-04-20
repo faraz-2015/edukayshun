@@ -127,7 +127,7 @@ const Header = () =>{
                   Log in
                 </span>
               </a>
-              <button
+              <a
                 className="btn font"
                 style={{
                   backgroundColor: "#C1272D",
@@ -136,12 +136,13 @@ const Header = () =>{
                   fontStyle: "normal",
                   fontSize: "14px",
                 }}
+                href='./register'
               >
                 <i className="fal fa-user-plus"></i>
                 <span className="font" style={{ marginLeft: "5px" }}>
                   Sign up
                 </span>
-              </button>
+              </a>
             </form>
           </div>
         </nav>
